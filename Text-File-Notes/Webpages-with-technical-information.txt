@@ -1,0 +1,6 @@
+Scaling an app for millions
+
+https://medium.com/@davehagler/is-it-possible-to-build-a-mobile-app-that-can-scale-to-support-millions-of-users-for-200-a94c5d2373ee
+
+App design and wireframe modeling
+https://www.biznessapps.com/blog/how-to-build-a-mobile-app-in-12-easy-steps/
