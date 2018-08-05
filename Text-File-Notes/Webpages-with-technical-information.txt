@@ -4,3 +4,7 @@ https://medium.com/@davehagler/is-it-possible-to-build-a-mobile-app-that-can-sca
 
 App design and wireframe modeling
 https://www.biznessapps.com/blog/how-to-build-a-mobile-app-in-12-easy-steps/
+
+
+Tech Stack advice
+https://medium.com/unicorn-supplies/9-steps-how-to-choose-a-technology-stack-for-your-web-application-a6e302398e55
